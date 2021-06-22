@@ -1,5 +1,6 @@
 body {
   background-color: rgb(253, 251, 251);
+  font-family: arial, sans-serif;
 }
 
 #cabecalho {
@@ -10,4 +11,13 @@ body {
 #minha_foto {
   width: 300px;
   margin-top: 60px;
+}
+
+table {  
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  padding: 8px;
 }
