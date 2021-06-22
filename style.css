@@ -13,11 +13,11 @@ body {
   margin-top: 60px;
 }
 
-table {  
+table {
   border-collapse: collapse;
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 2px solid #ddd;
   padding: 8px;
 }
