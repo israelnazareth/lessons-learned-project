@@ -16,6 +16,18 @@ body {
   margin-top: 60px;
 }
 
+.lado-esquerdo {
+  display: inline-block;
+  width: 50%;
+}
+
+.lado-direito {
+  position: absolute;
+  margin-left: 10px;
+  width: 40%;
+  display: inline-block;
+}
+
 table {
   border-collapse: collapse;
 }
@@ -28,4 +40,8 @@ td {
 th {
   border: 2px solid rgb(221, 221, 221);
   padding: 8px;
+}
+
+footer {
+  margin-bottom: 40px;
 }
